@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+apk-extraido/
+refs/
+api/
+dist/
+build/
+*.spec
+assets/

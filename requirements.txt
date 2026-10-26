@@ -1,0 +1,6 @@
+bleak>=0.22
+customtkinter>=5.2
+pystray>=0.19
+pillow>=10
+pytest>=8
+pyinstaller>=6
